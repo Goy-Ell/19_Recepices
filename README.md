@@ -1,2 +1,2 @@
-# Recepices
+# Recipes
 nlp
